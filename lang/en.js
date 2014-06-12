@@ -18,7 +18,7 @@
 			"History is not available": "",
 			"Incoming": "",
 			"Latest": "",
-			"Latest message: %%d%% %%t%%"	: "",
+			"Latest message: %%d%% %%t%%": "",
 			"Loading messages": "",
 			"Message is not delivered": "Not delivered.",
 			"Message log": "",
