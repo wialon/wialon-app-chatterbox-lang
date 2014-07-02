@@ -13,7 +13,7 @@
 			"Drivers": "Vodiči",
 			"Execution time: %%title%%": "Čas vykonania: %%title%%",
 			"Export to .xml": "Export do .xml",
-			"Forever": "Všetky správy",
+			"Forever": "Všetko",
 			"Geofences": "Zóny ohraničenia",
 			"History is not available": "História nie je dostupná",
 			"Incoming": "Prijaté",
