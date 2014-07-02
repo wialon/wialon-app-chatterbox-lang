@@ -36,7 +36,7 @@
 			"Outgoing": "Odoslané",
 			"POIs": "Body záujmu",
 			"Please, fill the correct data in configuration": "Nesprávne prihlasovacie údaje.",
-			"Points": "súradnice",
+			"Points": "Súradnice",
 			"Possibility change (%%o%%)": "Zmena možností (%%o%%)",
 			"Press Enter to send": "Pre odoslanie stlačte Enter",
 			"Remaining": "Zostávajúce",
